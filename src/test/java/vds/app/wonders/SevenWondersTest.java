@@ -10,4 +10,7 @@ public class SevenWondersTest {
     void settingsTest() {
         assertThat(true).isTrue();
     }
+
+    // REGLES A TESTER :
+    //
 }
